@@ -7,20 +7,20 @@ The dataset follows the following structure:
 ```
 ├── Dataset
     ├── QA_Class_1
-        ├── img1
-        ├── img2
-        ├── img3
-            ...
+         img1
+         img2
+         img3
+         ...
     ├── QB_Class_2
-        ├── img1
-        ├── img2
-        ├── img3
-            ...
-├── QC_Class_3
-        ├── img1
-        ├── img2
-        ├── img3
-            ...
+         img1
+         img2
+         img3
+         ...
+    ├── QC_Class_3
+         img1
+         img2
+         img3
+         ...
 ```
     
 # Citation
