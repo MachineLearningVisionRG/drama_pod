@@ -1,6 +1,8 @@
 # Drama-Pod (DRAMA POmegranate Dataset)
 This repository contains a dataset that proposed in the paper  "Visual Quality Inspection of Pomegranate Crop Using a Novel Dataset and Deep Learning" and consists of three quality classes of pomegranate fruit related to their postharvest intended use.
 
+![drama_pod](media/Visual Quality Inspection of Pomegranate Crop Using a Novel Dataset and Deep Learning1.png)
+
 # Dataset Structure
 The dataset follows the following structure: 
 ```
